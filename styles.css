@@ -25,6 +25,9 @@ h3 {
 a {
   color: #11999E;
 }
+a:hover{
+  color:#EAF6F6;
+}
 
 hr {
   width: 5%;
